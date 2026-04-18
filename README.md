@@ -37,6 +37,23 @@ Tier 1: $336,397 (28.0%)
 
 Tier 3 cities are the biggest revenue contributor — despite being "smaller" markets. This likely reflects higher outlet density or lower competitive intensity in those markets.
 
+## 📊 Visualisations
+
+### Total Sales by Fat Content
+![Fat Content](Viz/total_sales_by_fat_content.png)
+
+### Sales by City Tier
+![City Tier](Viz/grouped_fat_sales_by_city_tier.png)
+
+### Sales by Outlet Size
+![Outlet Size](Viz/sales_by_outlet_size_donut.png)
+
+### Sales by Establishment Year
+![Establishment Year](Viz/total_sales_by_establishment_year.png)
+
+### Sales by Location Type
+![Location](Viz/sales_by_location_funnel.png)
+
 🛠️ Tech Stack
 Python 3.x
 ├── pandas          — data loading, cleaning, aggregation
