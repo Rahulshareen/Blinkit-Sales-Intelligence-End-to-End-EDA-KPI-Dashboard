@@ -58,9 +58,13 @@ Tier 3 cities are the biggest revenue contributor — despite being "smaller" ma
 💡 Strategic Recommendations
 
 Double down on Low Fat inventory — 64.6% revenue share with identical margins means shelf space reallocation is low-risk, high-reward.
+
 Prioritise Tier 3 expansion — highest absolute revenue ($472K) and likely better unit economics than Tier 1 metro locations.
+
 Audit 1998-vintage outlets — they generate ~55% more revenue than the average. Replicate their format, location, or SKU mix in new openings.
+
 Investigate Medium format further — outperforms Large stores at 42.3% share; consider it the default expansion format.
+
 Rationalise Seafood & Breakfast SKUs — combined $24K revenue on likely non-trivial shelf space; consider reducing assortment
 
 
